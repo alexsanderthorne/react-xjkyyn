@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+  background-color: rgba(0, 0, 255, 0.11);
+  border: chocolate;
+  font-display: inherit;
+  animation-direction: alternate;
+  align-items: center;
+  text-align: center;
+}
+
+button{
+  left: 50px;
+}
